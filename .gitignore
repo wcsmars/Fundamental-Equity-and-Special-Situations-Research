@@ -9,6 +9,9 @@ Thumbs.db
 *.p12
 credentials/
 private/
+config.yaml
+config.yml
+data/raw/
 
 # Local settings and runtime state
 .*/
