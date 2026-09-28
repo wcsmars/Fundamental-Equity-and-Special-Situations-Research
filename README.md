@@ -64,22 +64,76 @@ Corrections made for this edition are marked in the text where they appear:
 - [Burford](ideas/burford.md#4-normalized-owner-earnings--balance-sheet-arithmetic-shown)
   (§4 and §8): owner earnings at $600M of realizations, multiples of book value
   excluding YPF, and the $2.75 trigger, which is about 1.14x deployed cost rather
-  than 0.9x.
+  than 0.9x. In [§5](ideas/burford.md#5-valuation-what-the-price-implies-and-intrinsic-value-range),
+  the bear case is about $1.55–2.01 rather than $2.00–2.50, and the base case needs
+  roughly $650–800M a year of realizations to cover carry and is centred at or below
+  the July 2 price.
+- [Fair Isaac](ideas/fico.md#5-valuation-what-the-price-implies-and-base--bull--bear-intrinsic-value-range)
+  (§2, §5 and §8): if the $2.45B guide holds, mortgage scores are about 36–38% of
+  revenue rather than ~43%; at range midpoints the probability-weighted value is
+  about $1,110–1,140, 9–11% below $1,251, rather than ~$1,190; the $1,000–1,050
+  trigger offers at most ~10% upside to the quality-premium base rather than 20% or
+  more; and the 2024 peak was about 110x trailing earnings, not 80–90x.
+- [Korea Value-Up](ideas/korea-value-up.md#4a-hyundai-motor--the-leg-that-matters)
+  (§4a to §8): Hyundai's dividend total, dividend per share and share count do not
+  reconcile, so the preferred-share multiples, yields and ₩175,000 trigger rest on an
+  unresolved basis; the SK Inc bull case is about ₩0.97–0.99mn (+42–45%) rather than
+  ₩1.1m or more; and a further 10% fall in the won cuts the dollar return on the
+  preferred shares to about +7–12% rather than erasing it.
 - [Listed PE and investment trusts](ideas/listed-pe-trust-cluster.md#4-normalized-owner-earnings--balance-sheet-arithmetic-shown-unverified-inputs-flagged)
   (§4 and §8): HVPE tender acceptance and buyback accretion, and an EOT entry
-  ceiling of about 910.7p before other costs.
-- [Stratus](ideas/stratus.md#4-normalized-owner-earnings--balance-sheet-arithmetic-shown-unverified-inputs-flagged)
-  (§4): the low-case cost bridge leaves $104–122M before taxes, short of the
-  ~$140M requirement.
-- [Vivendi](ideas/vivendi.md#5-valuation-what-the-price-implies-and-base--bull--bear-intrinsic-value-range)
-  (§5 and §7): the bear range becomes €1.15–1.40, about 36–47% downside rather
-  than 20–25%, and expected value falls to about the entry price.
-- [UHS and Tenet](ideas/uhs-thc-healthcare.md#5-valuation-what-the-price-implies-and-intrinsic-value-ranges)
-  (§5): §4 models only partial losses of supplemental payments, so the price is
-  no longer described as covering a full loss.
+  ceiling of about 910.7p before other costs. The PEY blend is about 0.66–0.69x NAV
+  (+1.5% to +12.5% at the assumed 38% continuation discount, and +5.5% to +13.4% rather than ~+15–18% if continuation shares re-rate to a 30% discount), and the SEIT stress case is about 59p and a ~14%
+  IRR on the ~£1.47bn asset base, so 64p and ~16% are the favourable end. In
+  [§5](ideas/listed-pe-trust-cluster.md#5-valuation-what-the-price-implies-and-base--bull--bear-intrinsic-value-ranges),
+  the VEIL bear case is about −22% rather than −15%.
 - [Mobility Global](ideas/mobility-global.md#6-catalyst-map-dated-where-possible)
   (§6, with the §9 checklist updated to match): the first 13F snapshot after the
-  spin-off is September 30 holdings, due November 16.
+  spin-off is September 30 holdings, due November 16. In
+  [§4](ideas/mobility-global.md#4-normalized-owner-earnings--balance-sheet-arithmetic-shown)
+  and [§5](ideas/mobility-global.md#5-valuation-what-the-price-implies-and-base--bull--bear-range),
+  owner earnings are about $340–395M once the free-cash-flow cross-check deducts
+  stock compensation (a 5.7–6.6% yield), and the bear range is about $11.96–14.86,
+  up to ~41% downside rather than 35%. In
+  [§8](ideas/mobility-global.md#8-verdict--the-pricefact-that-changes-it), the
+  deferred-tax kill criterion leaves a base case of about $22.2–24.6, not ~$21.
+- [Stratus](ideas/stratus.md#4-normalized-owner-earnings--balance-sheet-arithmetic-shown-unverified-inputs-flagged)
+  (§4): with the Annie B row following the loan waterfall, the low-case cost bridge
+  leaves about $99–117M before taxes (about $19.46–21.66 per share), replacing the
+  earlier $104–122M correction, and about $94–114M if only the identified MUD
+  remainder is counted. That is short of the ~$140M requirement and at most about
+  $0.16 per share above the $21.50 entry limit.
+- [UHS and Tenet](ideas/uhs-thc-healthcare.md#5-valuation-what-the-price-implies-and-intrinsic-value-ranges)
+  (§5): §4 models only partial losses of supplemental payments, so the price is
+  no longer described as covering a full loss. The UHS base-case inputs give about
+  $242–255, so the $210 low end is unsupported, and Tenet's hospital segment is
+  valued at about 2.9–4.3x EBITDA rather than ~0.6x if adjusted EBITDA is before
+  noncontrolling interests. In §3 and §4, UHS net leverage is about 1.9x (2.2x after
+  Talkspace) rather than 1.7x and ~2.0x.
+- [Vivendi](ideas/vivendi.md#5-valuation-what-the-price-implies-and-base--bull--bear-intrinsic-value-range)
+  (§5 and §7): the bear range becomes €1.15–1.40, about 36–47% downside rather
+  than 20–25%, and expected value falls to about the entry price. In
+  [§8](ideas/vivendi.md#8-verdict--the-pricefact-that-changes-it), the pre-ruling
+  skew turned negative above about €2.22–2.35 rather than ~€3.20, and the ~€1.90
+  re-entry level conflicts with the €1.75 threshold.
+- [WEX](ideas/wex.md#4-normalized-owner-earnings--balance-sheet-arithmetic-shown)
+  (§4 and §5): the multiple of guided EPS is about 7.5x rather than ~7.2x; the
+  sum-of-parts midpoint moves from ~$160 to ~$170 once the segment estimates are
+  reconciled to the §4 total; and a fully executed $1B buyback retires about 20% of
+  shares at $143.95, not ~15%.
+- [ZIM](ideas/zim.md#1-situation-in-three-sentences)
+  (§1 and §7): the close probability implied by the §5 break values is roughly
+  25–45% rather than 25–40%, and the worst case is about −42% to −58% rather than
+  −40% to −58%.
+- [Research backlog](ALPHA_BACKLOG.md): the Samsung Electronics preferred-share gap
+  is restated as a discount to the common (about 31–35%, not 45–54%); the Korean
+  grace period for legacy treasury shares ends around September 2027, not September
+  2026; stale or duplicate entries (SEIT, Resideo/ADI, Jackson Financial) are
+  cross-referenced; both Stratus entries point to the corrected bridge, which gives
+  no money-back floor at $21.50; and entry arithmetic is corrected for, among
+  others, Innoviva's market cap, Atkore's free-cash-flow multiple, Columbia's
+  offering size, FDSB's share-count reduction, LyondellBasell's yield, Exor's NAV
+  discount and BAT's shareholder yield.
 
 These corrections weaken several original verdicts. The affected sizing and entry
 thresholds have not been re-underwritten, and none of these outcomes is a
